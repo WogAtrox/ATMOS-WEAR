@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-    font-family: "GODOFWAR.TTF";
+    font-family: "GodOfWar", sans-serif;
     font-size: 58px;
     letter-spacing: 6px;
     margin-top: 40px;
@@ -84,6 +84,7 @@ button:hover {
     opacity: 0.6;
     margin: 0;
 }
+
 .product-info {
     padding: 12px 0 15px;
 }
