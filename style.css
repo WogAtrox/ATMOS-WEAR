@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "GodOfWar";
+    src: url("fonts/GODOFWAR.TTF") format("truetype");
+}
+
 body {
     background-color: #111;
     color: white;
@@ -8,7 +13,8 @@ body {
 }
 
 h1 {
-    font-size: 48px;
+    font-family: "GodOfWar", sans-serif;
+    font-size: 58px;
     letter-spacing: 6px;
     margin-top: 40px;
     margin-bottom: 10px;
