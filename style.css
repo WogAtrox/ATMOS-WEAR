@@ -5,3 +5,8 @@ body {
 .hero {
     min-height: 100vh;
 }
+
+.hero-video {
+    width: 500px;
+    display: block;
+}
